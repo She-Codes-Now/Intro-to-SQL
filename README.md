@@ -1,5 +1,5 @@
 # Intro to SQL
-Instructor: @TinaBrownfield
+
 
 ## Do I need to download or install anything for this class? 
 
